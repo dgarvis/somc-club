@@ -9,7 +9,7 @@ const JoinToOurDiscord = () => {
       <div className="container pt-[6rem]">
         <div className="flex justify-center md:justify-between mb-4">
           <h1 className="text-[28px] m-0 join-our-discord-heading">
-            JOIN TO OUR DISCORD
+            JOIN OUR DISCORD
           </h1>
           <a
             href="https://discord.gg/eHyrQfgDGM"

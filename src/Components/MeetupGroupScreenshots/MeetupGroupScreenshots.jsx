@@ -169,7 +169,7 @@ const MeetupGroupScreenshots = () => {
                 height={180}
               />
               <div className="p-4">
-                <p className="card-title">Mountian House</p>
+                <p className="card-title">Mountain House</p>
                 <p className="posted-by">posted by Simon</p>
                 <p className="my-3 desc">
 		    It is said that wardens once stormed this quiet home.

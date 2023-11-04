@@ -38,9 +38,11 @@ export const Donation = () => {
                   our server and to moderation.
                 </p>
               </div>
-              <div className="mt-[6rem] text-center">
-                <button className="donate-btn">Donate</button>
-              </div>
+		<a href="https://ko-fi.com/dgarvis" className="text-decoration-none" target="_blank">
+		    <div className="mt-[6rem] text-center">
+			<button className="donate-btn">Donate</button>
+		    </div>
+		</a>
             </div>
           </div>
           <div className="col-12 col-md-6 d-none d-md-block">

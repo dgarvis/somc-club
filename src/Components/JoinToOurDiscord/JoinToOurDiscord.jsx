@@ -49,7 +49,7 @@ const JoinToOurDiscord = () => {
             <div className="join-to-discord flex justify-center items-center gap-2 sm:w-[166px] sm:h-[44px] md:w-[248px] md:h-[66px]">
               <img src={JoinToDiscordArrow} alt="" width={13} height={13} />
               <span className="font-[Readex Pro] font-[600] text-[14px]">
-                Join to Discord
+                Join Discord
               </span>
             </div>
           </a>

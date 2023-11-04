@@ -12,7 +12,7 @@ const GitHubSection = () => {
             HELP US WITH YOUR IDEAS!
           </h1>
           <p className="submit-items-text">
-            Submit your items\props\texture to our GitHub!
+            Submit your Custom Props to our GitHub!
           </p>
           <div className="d-none d-md-flex justify-between items-center p-3 github-card">
             <div className="text-sec">

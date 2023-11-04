@@ -35,10 +35,10 @@ const HeroSection = () => {
           <div className="hero-section-card" style={{ padding: "40px" }}>
             <div className="flex gap-2">
               <img src={CleanVanilla} alt="Heart" width={24} height={24} />
-              <span className="card-header">Clean Vanilla</span>
+              <span className="card-header">Vanilla Like</span>
             </div>
             <p className="text-left">
-              {`Vanilla server with your friends and groups without any differences between players!`}
+              {`Vanilla Minecraft keeps the server open to all skill levels.`}
             </p>
           </div>
           <div className="hero-section-card" style={{ padding: "41px" }}>
@@ -47,7 +47,7 @@ const HeroSection = () => {
               <span className="card-header">Creativity</span>
             </div>
             <p className="text-left">
-              {`Use your imagination and import your textures\features in server!`}
+              {`Use your imagination and add Custom Props to server!`}
             </p>
           </div>
         </div>
@@ -82,7 +82,7 @@ const HeroSection = () => {
             {/* <div className="arrow-img"></div> */}
             <a href="https://discord.gg/eHyrQfgDGM" className="text-decoration-none">
               <p className="mt-[1.5rem]">
-                Join to us only <br /> through discord!
+                Join us only <br /> through discord!
               </p>
             </a>
           </div>

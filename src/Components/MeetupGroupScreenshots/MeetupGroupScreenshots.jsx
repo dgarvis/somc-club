@@ -17,8 +17,8 @@ const MeetupGroupScreenshots = () => {
           </div>
           <p className="description-text">
             These screenshots were taken from our{" "}
-            <span className="text-decoration-underline">meetup group</span> and
-            discord!
+            <span className="text-decoration-underline">Meetup group</span> and
+            Discord!
           </p>
         </div>
         <div className="row g-3 mt-3">

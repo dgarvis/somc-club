@@ -30,14 +30,14 @@ const Footer = () => {
             <p>
               Every Wednesday <br />
               at 7.00 ET meeting <br />
-              in discord server. <br />
+              in Discord server. <br />
               Enjoy!
             </p>
               {/*<img src={Socials} alt="" />*/}
           </div>
         </div>
         <p className="rights-reserved mt-4">
-          ©️ All rights reserved. SocialMinecraft inc. 2023.
+            ©️ All rights reserved. SoMC: SocialMinecraft 2023.
         </p>
       </div>
     </div>

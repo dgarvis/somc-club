@@ -1,0 +1,62 @@
+* {
+  --primary-font-family: Readex Pro;
+  font-family: "Readex Pro", sans-serif;
+  color: #fff;
+}
+
+.nav-item {
+  color: #fff;
+  font-family: Readex Pro;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.online-players span {
+  color: #fff;
+  font-family: Readex Pro;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.join-now-btn {
+  width: 155px;
+  height: 50px;
+  border-radius: 25px;
+  background: url("../../assets/images/join-now-btn-bg.png");
+  box-shadow: 0px 0px 10px 0px #3f691c;
+  background-position: center;
+}
+
+.hero-section-card {
+  border-radius: 25px;
+  background: #0e0e12;
+  width: 410px;
+  height: 145px;
+}
+
+.hero-section-card .card-header {
+  font-family: Pixeloid Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: var(--title, linear-gradient(167deg, #b7f476 0%, #60ac34 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* padding: 41px; */
+}
+
+.hero-section-card p {
+  color: #fff;
+  font-family: Readex Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0;
+}

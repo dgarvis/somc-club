@@ -1,0 +1,26 @@
+.join-now-btn-hero {
+  color: var(--additionary, #242424);
+  text-shadow: 0px 4px 25px rgba(0, 0, 0, 0.68);
+  font-family: Pixeloid Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.arrow-img {
+  width: 161.063px;
+  height: 161.063px;
+  transform: rotate(23.581deg);
+  background: url("../../assets/images/join-server-arrow.svg");
+}
+
+.header-bg-gradient {
+  border-radius: 596px;
+  background: linear-gradient(
+    106deg,
+    rgba(143, 255, 0, 0.25) 0%,
+    rgba(255, 214, 0, 0.25) 100%
+  );
+  filter: blur(125px);
+}

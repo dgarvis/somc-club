@@ -1,0 +1,52 @@
+.description-text {
+  color: #fff;
+  font-family: Readex Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.screenshot-card {
+  border-radius: 25px;
+  background: #070709;
+}
+
+.card-title {
+  font-family: Pixeloid Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: var(--title, linear-gradient(167deg, #b7f476 0%, #60ac34 100%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.posted-by {
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Readex Pro;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.no-of-likes {
+  color: #fff;
+  font-family: Readex Pro;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.desc {
+  color: rgba(255, 255, 255, 0.5) !important;
+  font-family: Readex Pro;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}

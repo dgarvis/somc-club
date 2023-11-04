@@ -1,0 +1,45 @@
+.section-heading {
+  font-family: Pixeloid Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: linear-gradient(167deg, #b7f476 0%, #60ac34 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.analystics-card {
+  border-radius: 25px;
+  background: #141419;
+  padding: 2rem;
+  overflow: hidden;
+}
+.card-heading {
+  color: #fff;
+  text-align: right !important;
+  font-family: Readex Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.main-number {
+  color: #fff;
+  text-align: right;
+  font-family: Readex Pro;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.card-image {
+  width: 115px;
+  height: 114px;
+  position: absolute;
+  bottom: 5%;
+  left: -2%;
+}

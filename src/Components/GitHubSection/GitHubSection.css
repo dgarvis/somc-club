@@ -1,0 +1,51 @@
+.submit-items-text {
+  color: #fff;
+  font-family: Readex Pro;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.github-card {
+  /* width: 736px; */
+  height: 97px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #19191f;
+}
+
+.github-card .text-sec span {
+  color: rgba(255, 255, 255, 0.25);
+  font-family: Readex Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.github-button {
+  width: 152px;
+  height: 47px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: linear-gradient(167deg, #b7f476 0%, #60ac34 100%);
+}
+
+.github-button span {
+  color: #242424;
+  font-family: Readex Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.github-text-around {
+  color: #2b2b39;
+  font-family: Readex Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}

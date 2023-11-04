@@ -1,0 +1,49 @@
+.section-card {
+  /* background: linear-gradient(90deg, #7cc04b 0%, rgba(104, 178, 58, 0) 100%); */
+  border-radius: 25px;
+  background: linear-gradient(90deg, #7cc04b 0%, rgba(104, 178, 58, 0) 100%),
+    url("/join-discord-bg.png");
+  background-position: right;
+  background-size: cover;
+}
+
+.join-our-discord-heading {
+  font-family: Pixeloid Sans;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: linear-gradient(167deg, #b7f476 0%, #60ac34 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.meeting-day {
+  font-family: Pixeloid Sans;
+  /* font-size: 64px; */
+  font-weight: 700;
+}
+
+.meeting-time {
+  font-family: Readex Pro;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.join-to-discord {
+  width: 248px;
+  height: 66px;
+  border-radius: 5px;
+  background: #242424;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.63);
+}
+
+.middle-star {
+  width: 170.478px;
+  height: 170.478px;
+  transform: rotate(-20.014deg);
+  /* flex-shrink: 0;
+  background-image: url("../../assets/images/Star\ 2.svg"); */
+  left: 50%; 
+}

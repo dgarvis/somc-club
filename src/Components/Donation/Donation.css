@@ -1,0 +1,112 @@
+.donation-card {
+  border-radius: 10px;
+  border: 2px solid rgba(212, 227, 255, 0.11);
+  background: rgba(60, 201, 65, 0.1);
+  padding: 5rem 4rem;
+  box-shadow: -35.266666412353516px 35.266666412353516px 35.266666412353516px
+      0px rgba(255, 255, 255, 0.1) inset,
+    35.266666412353516px -35.266666412353516px 35.266666412353516px 0px rgba(
+        36,
+        90,
+        194,
+        0.1
+      ) inset;
+  backdrop-filter: blur(35.266666412353516px);
+  /* height: 653px; */
+}
+
+.donation-card h1 {
+  font-family: Pixeloid Sans;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: center;
+  background: linear-gradient(167deg, #b7f476 0%, #60ac34 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.desc {
+  color: #85d064;
+  font-family: Readex Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.donate-btn {
+  width: 248px;
+  height: 66px;
+  flex-shrink: 0;
+  margin-top: 4rem;
+  border-radius: 5px;
+  background: #111;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.63);
+}
+
+.older-version-card {
+  border-radius: 10px;
+  height: 650px;
+  border: 2px solid rgba(212, 227, 255, 0.11);
+  background: rgba(60, 201, 65, 0.1);
+  box-shadow: -35.266666412353516px 35.266666412353516px 35.266666412353516px
+      0px rgba(255, 255, 255, 0.1) inset,
+    35.266666412353516px -35.266666412353516px 35.266666412353516px 0px rgba(
+        36,
+        90,
+        194,
+        0.1
+      ) inset;
+  backdrop-filter: blur(35.266666412353516px);
+}
+
+.older-version-card h1 {
+  font-family: Pixeloid Sans;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: linear-gradient(167deg, #b7f476 0%, #60ac34 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.version-card {
+  border-radius: 7px;
+  background: #2b3d34;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.version-number {
+  color: #fff;
+  font-family: Pixeloid Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.version-name {
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Readex Pro;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.download-btn-container {
+  width: 25px;
+  height: 25px;
+  flex-shrink: 0;
+  border-radius: 3px;
+  background: #242424;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

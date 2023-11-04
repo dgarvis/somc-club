@@ -110,8 +110,8 @@ const MeetupGroupScreenshots = () => {
                 height={180}
               />
               <div className="p-4">
-                <p className="card-title">Kat's Home</p>
-                <p className="posted-by">posted by Kat</p>
+                <p className="card-title">Katt's Home</p>
+                <p className="posted-by">posted by Katt</p>
                 <p className="my-3 desc">
 		    I hear this place has been resold and reclaimed a
 		    few times.

@@ -20,7 +20,7 @@ const HeroSection = () => {
           SOCIAL MINECRAFT
         </h1>
         <p className="text-[24px] font-[400] font-[Readex Pro]">
-	    The place where people come to mine, craft, and socialize.
+	    The place where people come to mine, craft, and <em>socialize</em>.
         </p>
         <div className="flex flex-wrap justify-center items-center mt-[6rem] gap-4">
           <div className="hero-section-card" style={{ padding: "41px" }}>

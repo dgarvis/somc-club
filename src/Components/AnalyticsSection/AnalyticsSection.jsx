@@ -32,7 +32,7 @@ const AnalyticsSection = () => {
             <div className="analystics-card flex justify-end relative">
               <div className="text-end">
                 <span className="card-heading">
-                  Users <br /> Registered
+                    Minecraft <br /> Accounts
                 </span>
                 <h1 className="main-number">{stats?.minecraftAccounts}</h1>
               </div>
@@ -67,7 +67,7 @@ const AnalyticsSection = () => {
                 <span className="card-heading">
                   Blocks <br /> Broken
                 </span>
-                  <h1 className="main-number">{Math.round(stats?.blocksBroken / 1000000)}M</h1>
+                  <h1 className="main-number">{Math.round(stats?.blocksBroken / 100000)/10}M</h1>
               </div>
               <img src={Box} alt="" className="card-image" />
             </div>

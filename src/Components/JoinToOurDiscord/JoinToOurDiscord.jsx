@@ -35,11 +35,11 @@ const JoinToOurDiscord = () => {
             at 7:00 PM ET.
           </p>
           <p className="font-[300] my-5 sm:text-[16px] md:text-[14px]">
-              We we show off cool builds, work on projects together,
+              We show off cool builds, work on projects together, 
             <br />
-	      talk about the latest minecraft news and other topics,
+	      talk about the latest minecraft news,
             <br />
-	      and generally making new friends on an adventure.
+	       and make new friends while  adventuring.
           </p>
           <a
             href="https://discord.gg/eHyrQfgDGM"

@@ -21,7 +21,7 @@ export const Donation = () => {
                   className="mb-2"
                 />
                 <p className="desc">
-		    Donations help offset the costs of running the server,
+		    Your donation help offset the costs of running the server,
 		    the 15 minute backups, and the meetup group subscription.
                 </p>
               </div>
@@ -34,7 +34,7 @@ export const Donation = () => {
                   className="mb-2"
                 />
                 <p className="desc m-0">
-		    Donations can also aid in the recuritment of new players
+		    Your donations aids in the recuritment of new players
 		    who will add to the world, so each time you login, you see
 		    something new.
                 </p>
@@ -48,7 +48,7 @@ export const Donation = () => {
 			className="mb-2"
                     />
                     <p className="desc m-0">
-			Donations can also support new game modes and special events.
+			Your donations supports new game modes and special events.
                     </p>
 		</div>
 		<a href="https://ko-fi.com/dgarvis" className="text-decoration-none" target="_blank">

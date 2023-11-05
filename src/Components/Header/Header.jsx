@@ -51,7 +51,7 @@ const Header = () => {
             href={"https://github.com/dgarvis/somc-resourcepack"}
             className="text-decoration-none nav-item"
           >
-            Creativity
+            GitHub
           </a>
           <a
             href={"https://www.meetup.com/somc-social-minecraft/"}

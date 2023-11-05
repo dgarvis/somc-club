@@ -21,7 +21,8 @@ export const Donation = () => {
                   className="mb-2"
                 />
                 <p className="desc">
-                  Your donations will help us to improve our social server!
+		    Donations help offset the costs of running the server,
+		    the 15 minute backups, and the meetup group subscription.
                 </p>
               </div>
               <div className="mt-[4rem]">
@@ -33,11 +34,23 @@ export const Donation = () => {
                   className="mb-2"
                 />
                 <p className="desc m-0">
-                  All donations are aimed at expanding <br />
-                  and changing to more advanced level <br />
-                  our server and to moderation.
+		    Donations can also aid in the recuritment of new players
+		    who will add to the world, so each time you login, you see
+		    something new.
                 </p>
               </div>
+		<div className="mt-[4rem]">
+                    <img
+			src={CheckmarkIcon}
+			alt=""
+			width={23}
+			height={23}
+			className="mb-2"
+                    />
+                    <p className="desc m-0">
+			Donations can also support new game modes and special events.
+                    </p>
+		</div>
 		<a href="https://ko-fi.com/dgarvis" className="text-decoration-none" target="_blank">
 		    <div className="mt-[6rem] text-center">
 			<button className="donate-btn">Donate</button>

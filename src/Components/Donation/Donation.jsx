@@ -69,6 +69,20 @@ export const Donation = () => {
                   <div className="flex gap-2 items-center">
                     <img src={VersionCardIcon} alt="" height={24} width={24} />
                     <div>
+                      <p className="version-number m-0">Penguins Vs Cats Dragon Speed Run</p>
+                      <p className="version-name m-0">Nov 8th 2023</p>
+                    </div>
+                  </div>
+                  <a href="https://dl.somc.club/PenguinsVsCats.zip" className="text-decoration-none" target="_blank">
+                    <div className="download-btn-container">
+                      <img src={DownloadBtn} width={15} height={15} alt="" />
+                    </div>
+                  </a>
+                </div>
+                  <div className="w-100 version-card flex justify-between items-center w-100">
+                  <div className="flex gap-2 items-center">
+                    <img src={VersionCardIcon} alt="" height={24} width={24} />
+                    <div>
                       <p className="version-number m-0">Penguin Craft V3</p>
                       <p className="version-name m-0">The World.</p>
                     </div>
